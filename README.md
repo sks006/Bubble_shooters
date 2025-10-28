@@ -49,19 +49,35 @@ This is bubbler shooter game build by c++
 ----------------------
 
 ### bubble-shooterter/
+
 ├── assets/
-│├── re red.png
+
+│   ├── red.png
+
 │   ├── blue.png
+
 │   ├── green.png
+
 │   ├── yellow.png
+
 │   └── background.png
+
 ├Makefileile
+
 ├── README.md
+
 └── src/
+
     ├── main.cpp
+    
     ├── Game.cpp
+    
     ├── Game.hpp
+    
     ├── Bubble.cpp
+    
     ├── Bubble.hpp
+    
     └── Utils.hpp
-)
+    
+
